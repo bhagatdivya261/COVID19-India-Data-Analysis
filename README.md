@@ -21,12 +21,9 @@ Indian vs Foreign Cases Comparison
 
  Dashboard Preview
 
-![Dashboard](dashboard.png)
+Screenshot 2026-03-16 114009.png
 
 Conclusion
 
 This dashboard helps in understanding COVID-19 spread patterns, high-risk states, and recovery performance, enabling better data-driven insights.
 
----
-
-✨ Created by Divya Bhagat
