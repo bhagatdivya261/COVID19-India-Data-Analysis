@@ -1,2 +1,1 @@
-# COVID19-India-Data-Analysis
-Power BI dashboard analyzing COVID-19 trends in India
+An interactive Power BI dashboard that analyzes COVID-19 data in India, providing insights into case trends, state-wise distribution, recoveries, and death patterns using data visualization techniques.
